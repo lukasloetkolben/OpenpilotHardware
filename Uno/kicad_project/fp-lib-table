@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Uno")(type "KiCad")(uri "${KIPRJMOD}/Uno.pretty")(options "")(descr ""))
+)

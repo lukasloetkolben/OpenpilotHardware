@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Riser")(type "KiCad")(uri "${KIPRJMOD}/Riser.pretty")(options "")(descr ""))
+)

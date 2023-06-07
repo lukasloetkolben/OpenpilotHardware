@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "HarnessBox")(type "KiCad")(uri "${KIPRJMOD}/HarnessBox.pretty")(options "")(descr ""))
+)

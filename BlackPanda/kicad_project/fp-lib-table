@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "BlackPanda")(type "KiCad")(uri "${KIPRJMOD}/BlackPanda.pretty")(options "")(descr ""))
+)

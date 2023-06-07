@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# SMP4-RGB
+#
+DEF SMP4-RGB U 0 40 Y Y 1 L N
+F0 "U" 0 0 50 H I L BNN
+F1 "SMP4-RGB" 0 0 50 H I L BNN
+F2 "4-PLCC" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -400 -200 -500 -100 N
+P 2 0 0 10 -500 -100 -400 -100 N
+P 2 0 0 10 -400 -100 -300 -100 N
+P 2 0 0 10 -300 -100 -400 -200 N
+P 2 0 0 10 0 -200 -100 -100 N
+P 2 0 0 10 -100 -100 0 -100 N
+P 2 0 0 10 0 -100 100 -100 N
+P 2 0 0 10 100 -100 0 -200 N
+P 2 0 0 10 400 -200 300 -100 N
+P 2 0 0 10 300 -100 400 -100 N
+P 2 0 0 10 400 -100 500 -100 N
+P 2 0 0 10 500 -100 400 -200 N
+P 2 0 0 10 -400 -100 -400 0 N
+P 2 0 0 10 -400 0 400 0 N
+P 2 0 0 10 400 0 400 -100 N
+P 2 0 0 10 0 -100 0 100 N
+X A P$4 0 200 100 D 40 40 0 0 B 
+X G P$1 -400 -300 100 U 40 40 0 0 B 
+X Y P$2 0 -300 100 U 40 40 0 0 B 
+X R P$3 400 -300 100 U 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library

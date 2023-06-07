@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PESD2CAN_215")(type "Legacy")(uri "${KIPRJMOD}/BlackPanda.symbols/PESD2CAN_215.lib")(options "")(descr ""))
+  (lib (name "U.FL-R-SMT-1")(type "Legacy")(uri "${KIPRJMOD}/BlackPanda.symbols/U.FL-R-SMT-1.lib")(options "")(descr ""))
+  (lib (name "SMAJ16CA")(type "Legacy")(uri "${KIPRJMOD}/BlackPanda.symbols/SMAJ16CA.lib")(options "")(descr ""))
+  (lib (name "SMP4-RGB")(type "Legacy")(uri "${KIPRJMOD}/BlackPanda.symbols/SMP4-RGB.lib")(options "")(descr ""))
+  (lib (name "10_0_QHHTZB6_3")(type "KiCad")(uri "${KIPRJMOD}/BlackPanda.symbols/10_0_QHHTZB6_3.kicad_sym")(options "")(descr ""))
+  (lib (name "FM-B1921RGBA-SH")(type "KiCad")(uri "${KIPRJMOD}/BlackPanda.symbols/FM-B1921RGBA-SH.kicad_sym")(options "")(descr ""))
+  (lib (name "TYPE-C-31-M-04")(type "KiCad")(uri "${KIPRJMOD}/BlackPanda.symbols/TYPE-C-31-M-04.kicad_sym")(options "")(descr ""))
+)

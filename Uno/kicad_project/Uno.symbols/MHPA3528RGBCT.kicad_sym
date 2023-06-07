@@ -1,0 +1,253 @@
+(kicad_symbol_lib (version 20210201) (generator TousstNicolas/JLC2KiCad_lib)
+  (symbol "MHPA3528RGBCT" (pin_names hide)  (in_bom yes) (on_board yes)
+    (property "Reference" "U" (id 0) (at 0 1.27 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "MHPA3528RGBCT" (id 1) (at 0 -2.54 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "footprint:LED-ARRAY-SMD_4P-L3.5-W2.8-TL" (id 2) (at 0 -10.16 0)
+      (effects (font (size 1.27 1.27) italic) hide)
+    )
+    (property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20190902/C409779_9EA0C46D876E94D2A4E683BAC3DDD702.pdf" (id 3) (at -2.286 0.127 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "ki_keywords" "C409779" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC" "C409779" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    
+    (symbol "MHPA3528RGBCT_0_1"
+      (polyline
+        (pts
+          (xy 1.27000254000508 -11.684023368046736)
+          (xy 3.81000762001524 -10.16002032004064)
+          (xy 1.27000254000508 -8.382016764033528)
+          (xy 1.27000254000508 -11.684023368046736)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+      (polyline
+        (pts
+          (xy 3.81000762001524 -8.128016256032513)
+          (xy 3.81000762001524 -12.192024384048768)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.7780035560071121 -6.858013716027433)
+          (xy 3.5560071120142243 -5.08001016002032)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.794005588011176 -7.874015748031496)
+          (xy 4.572009144018288 -6.096012192024384)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (pin unspecified line
+        (at -8.89001778003556 -2.54000508001016 0)
+        (length 3.81000762001524)
+        (name "-" (effects (font (size 1 1))))
+        (number "1" (effects (font (size 1 1))))
+      )
+      (polyline
+        (pts
+          (xy 3.5560071120142243 -5.08001016002032)
+          (xy 2.54000508001016 -5.588011176022352)
+          (xy 3.048006096012192 -6.096012192024384)
+          (xy 3.5560071120142243 -5.08001016002032)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+      (polyline
+        (pts
+          (xy 4.572009144018288 -6.096012192024384)
+          (xy 3.5560071120142243 -6.604013208026417)
+          (xy 4.0640081280162565 -7.1120142240284485)
+          (xy 4.572009144018288 -6.096012192024384)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+      (polyline
+        (pts
+          (xy 1.27000254000508 -4.0640081280162565)
+          (xy 3.81000762001524 -2.54000508001016)
+          (xy 1.27000254000508 -0.762001524003048)
+          (xy 1.27000254000508 -4.0640081280162565)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+      (polyline
+        (pts
+          (xy 3.81000762001524 -0.5080010160020321)
+          (xy 3.81000762001524 -4.572009144018288)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.7780035560071121 0.762001524003048)
+          (xy 3.5560071120142243 2.54000508001016)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.794005588011176 -0.25400050800101603)
+          (xy 4.572009144018288 1.524003048006096)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (pin unspecified line
+        (at 7.62001524003048 -10.16002032004064 180)
+        (length 3.81000762001524)
+        (name "-" (effects (font (size 1 1))))
+        (number "2" (effects (font (size 1 1))))
+      )
+      (polyline
+        (pts
+          (xy 3.5560071120142243 2.54000508001016)
+          (xy 2.54000508001016 2.0320040640081283)
+          (xy 3.048006096012192 1.524003048006096)
+          (xy 3.5560071120142243 2.54000508001016)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+      (polyline
+        (pts
+          (xy 4.572009144018288 1.524003048006096)
+          (xy 3.5560071120142243 1.0160020320040641)
+          (xy 4.0640081280162565 0.5080010160020321)
+          (xy 4.572009144018288 1.524003048006096)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+      (polyline
+        (pts
+          (xy 4.572009144018288 9.144018288036577)
+          (xy 3.5560071120142243 8.636017272034545)
+          (xy 4.0640081280162565 8.128016256032513)
+          (xy 4.572009144018288 9.144018288036577)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+      (polyline
+        (pts
+          (xy 3.5560071120142243 10.16002032004064)
+          (xy 2.54000508001016 9.652019304038609)
+          (xy 3.048006096012192 9.144018288036577)
+          (xy 3.5560071120142243 10.16002032004064)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+      (pin unspecified line
+        (at 7.62001524003048 -2.54000508001016 180)
+        (length 3.81000762001524)
+        (name "-" (effects (font (size 1 1))))
+        (number "3" (effects (font (size 1 1))))
+      )
+      (polyline
+        (pts
+          (xy 2.794005588011176 7.366014732029464)
+          (xy 4.572009144018288 9.144018288036577)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.7780035560071121 8.382016764033528)
+          (xy 3.5560071120142243 10.16002032004064)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (pin unspecified line
+        (at 7.62001524003048 5.08001016002032 180)
+        (length 3.81000762001524)
+        (name "-" (effects (font (size 1 1))))
+        (number "4" (effects (font (size 1 1))))
+      )
+      (polyline
+        (pts
+          (xy 3.81000762001524 7.1120142240284485)
+          (xy 3.81000762001524 3.048006096012192)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.27000254000508 3.5560071120142243)
+          (xy 3.81000762001524 5.08001016002032)
+          (xy 1.27000254000508 6.858013716027433)
+          (xy 1.27000254000508 3.5560071120142243)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+      (polyline
+        (pts
+          (xy -2.54000508001016 5.08001016002032)
+          (xy -5.08001016002032 5.08001016002032)
+          (xy -5.08001016002032 -10.16002032004064)
+          (xy -2.54000508001016 -10.16002032004064)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54000508001016 -2.54000508001016)
+          (xy 0.0 -2.54000508001016)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54000508001016 5.08001016002032)
+          (xy 1.27000254000508 5.08001016002032)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -5.08001016002032 -2.54000508001016)
+          (xy 1.27000254000508 -2.54000508001016)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.54000508001016 -10.16002032004064)
+          (xy 1.27000254000508 -10.16002032004064)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+    )
+  )
+)
