@@ -7615,7 +7615,7 @@
     (property "Reference" "D4" (at 365.633 339.852 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "BZT52C10" (at 359.283 342.773 90)
+    (property "Value" "NRVB130T1G" (at 359.283 342.773 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Uno:SOD-123_L2.7-W1.6-LS3.7-RD-1" (at 361.188 340.741 0)
@@ -10111,10 +10111,10 @@
     (property "LCSC" "C455262" (at 96.52 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 79e6063a-53e1-48bb-8150-5db5fdc77737))
-    (pin "1" (uuid 79e6063a-53e1-48bb-8150-5db5fdc77737))
-    (pin "2" (uuid 03945d02-a16c-4c6c-8832-50269d356e1f))
-    (pin "2" (uuid 03945d02-a16c-4c6c-8832-50269d356e1f))
+    (pin "1" (uuid 79e6063a-53e1-48bb-8150-5db5fdc77738))
+    (pin "1" (uuid 79e6063a-53e1-48bb-8150-5db5fdc77738))
+    (pin "2" (uuid 03945d02-a16c-4c6c-8832-50269d356e20))
+    (pin "2" (uuid 03945d02-a16c-4c6c-8832-50269d356e20))
     (instances
       (project "Uno"
         (path "/de64f41a-6fd9-4ca3-b3bc-9b637da9e7f3"

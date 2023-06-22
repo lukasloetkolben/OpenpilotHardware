@@ -4,4 +4,5 @@
 
 If you have any questions contact me on Discord: loetkolben#2962
 
-![](./docs/topview.png)
+![](./docs/harness_box_v2_01.jpg)
+![](./docs/harness_box_v2_03.jpg)
