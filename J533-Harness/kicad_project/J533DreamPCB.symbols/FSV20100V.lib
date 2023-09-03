@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# FSV20100V
+#
+DEF FSV20100V CR 0 40 N N 1 L N
+F0 "CR" 300 400 50 H V L BNN
+F1 "FSV20100V" 300 300 50 H V L BNN
+F2 "TO-277" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "FSV20100VCT-ND" 0 0 50 H I L BNN "PARTNO"
+DRAW
+P 2 0 0 10 0 0 0 200 N
+P 2 0 0 10 0 200 200 200 N
+P 2 0 0 10 200 200 0 400 N
+P 2 0 0 10 0 400 -200 200 N
+P 2 0 0 10 -200 200 0 200 N
+P 2 0 0 10 -200 500 -200 400 N
+P 2 0 0 10 -200 400 0 400 N
+P 2 0 0 10 0 400 200 400 N
+P 2 0 0 10 200 400 200 300 N
+P 2 0 0 10 0 400 0 600 N
+X ~ 3 0 600 0 R 40 40 0 0 B 
+X ~ 1 0 0 0 R 40 40 0 0 B 
+X ~ 2 0 0 0 R 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library

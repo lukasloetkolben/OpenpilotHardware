@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "J533DreamPCB")(type "KiCad")(uri "${KIPRJMOD}/J533DreamPCB.pretty")(options "")(descr ""))
+)

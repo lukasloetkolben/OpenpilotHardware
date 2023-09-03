@@ -1,0 +1,57 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# G6K-2P-Y_DC3
+#
+DEF G6K-2P-Y_DC3 K 0 40 Y N 1 L N
+F0 "K" -205 325 50 H V L BNN
+F1 "G6K-2P-Y_DC3" -200 -400 50 H V L BNN
+F2 "RELAY_G6K-2P-Y_DC3" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F5 "5.3mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F6 "Omron" 0 0 50 H I L BNN "MANUFACTURER"
+F7 "K106-E1-11" 0 0 50 H I L BNN "PARTREV"
+DRAW
+P 2 0 0 6 -25 150 -25 200 N
+P 2 0 0 6 -25 200 -25 250 N
+P 2 0 0 6 -25 250 25 250 N
+P 2 0 0 6 25 250 25 200 N
+P 2 0 0 6 25 200 25 150 N
+P 2 0 0 6 25 150 -25 150 N
+P 2 0 0 6 -200 200 -25 200 N
+P 2 0 0 6 25 200 200 200 N
+P 2 0 0 6 200 -100 140 -100 N
+P 2 0 0 6 90 0 90 -40 N
+P 4 0 0 6 105 -30 75 -30 90 -60 105 -30 f
+P 2 0 0 6 90 0 200 0 N
+P 2 0 0 6 140 -100 70 -55 N
+P 2 0 0 6 90 -200 90 -160 N
+P 4 0 0 6 105 -170 75 -170 90 -140 105 -170 f
+P 2 0 0 6 90 -200 200 -200 N
+P 2 0 0 6 -200 -100 -140 -100 N
+P 2 0 0 6 -90 0 -90 -40 N
+P 4 0 0 6 -105 -30 -75 -30 -90 -60 -105 -30 f
+P 2 0 0 6 -90 0 -200 0 N
+P 2 0 0 6 -140 -100 -70 -55 N
+P 2 0 0 6 -90 -200 -90 -160 N
+P 4 0 0 6 -105 -170 -75 -170 -90 -140 -105 -170 f
+P 2 0 0 6 -90 -200 -200 -200 N
+P 2 0 0 6 -75 250 -75 220 N
+P 2 0 0 6 -90 235 -60 235 N
+P 2 0 0 6 60 230 90 230 N
+S -200 -300 200 300 0 0 10 f
+X ~ 6 400 -100 200 L 40 40 0 0 P 
+X ~ 5 400 -200 200 L 40 40 0 0 P 
+X ~ 8 400 200 200 L 40 40 0 0 P 
+X ~ 1 -400 200 200 R 40 40 0 0 P 
+X ~ 7 400 0 200 L 40 40 0 0 P 
+X ~ 3 -400 -100 200 R 40 40 0 0 P 
+X ~ 4 -400 -200 200 R 40 40 0 0 P 
+X ~ 2 -400 0 200 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "BAV21W_RHG")(type "Legacy")(uri "${KIPRJMOD}/J533DreamPCB.symbols/BAV21W_RHG.lib")(options "")(descr ""))
+  (lib (name "G6K-2P-Y_DC3")(type "Legacy")(uri "${KIPRJMOD}/J533DreamPCB.symbols/G6K-2P-Y_DC3.lib")(options "")(descr ""))
+  (lib (name "FSV20100V")(type "Legacy")(uri "/Users/lukas/PycharmProjects/OpenRelay/kicad_project/Relay.symbols/FSV20100V.lib")(options "")(descr ""))
+  (lib (name "966871-1")(type "Legacy")(uri "${KIPRJMOD}/J533DreamPCB.symbols/966871-1.lib")(options "")(descr ""))
+)
