@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PSA")(type "KiCad")(uri "${KIPRJMOD}/PSA-Harness.pretty")(options "")(descr ""))
+)

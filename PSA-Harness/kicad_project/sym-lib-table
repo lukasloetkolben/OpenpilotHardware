@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BAV21W_RHG")(type "Legacy")(uri "${KIPRJMOD}/PSA-Harness.symbols/BAV21W_RHG.lib")(options "")(descr ""))
+  (lib (name "PSA")(type "KiCad")(uri "${KIPRJMOD}/PSA-Harness.symbols/PSA.kicad_sym")(options "")(descr ""))
+)
